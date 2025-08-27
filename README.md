@@ -1,9 +1,9 @@
 # Grafico-Gannt
 ```mermaid
-flowchart ID
+flowchart TD
 
 A(["Inicio"])
-A--> {"Faça uma escola"}
+A--> B{"Faça uma escola"}
 B--> C["OP1"]
 B--> D["OP2"]
 B--> E["OP3"]
