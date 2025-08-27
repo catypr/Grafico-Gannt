@@ -2,7 +2,7 @@
 ```mermaid
 flowchart ID
 
-A(["Inicio])
+A(["Inicio"])
 A--> {"Faça uma escola"}
 B--> C["OP1"]
 B--> D["OP2"]
